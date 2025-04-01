@@ -1,0 +1,6 @@
+{
+    "skip": "ctrl+shift+right",
+    "previous": "ctrl+shift+left",
+    "volume_up": "ctrl+shift+up",
+    "volume_down": "ctrl+shift+down"
+}
